@@ -1,4 +1,4 @@
-### Hi there, I'm Andres Mauricio Rendon Diaz [website] 👋 
+### Hi there, I'm Andres Mauricio Rendon Diaz 👋 
 
 ## I'm a Developer Frontend and Backend!!
 
