@@ -3,7 +3,7 @@
 ## I'm a Developer Frontend and Backend!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m like learning Laravel <3
+- 👯 I like to learn laravel, it is an incredible framework
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Magic
 
